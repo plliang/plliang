@@ -6,5 +6,18 @@
 - 开发框架
 	- Spring Boot
 	- Spring Cloud
+	- Spring Cloud Alibaba
 - 数据库
+	- MySQL
+	- PostgreSQL
+	- MongoDB
+	- Redis
+- Docker
+- 操作系统
+	- Linux
+	- Windows
+- 消息中间件
+	- RabbitMQ
+	- RocketMQ
+	- Kafka
 - 人工智能
